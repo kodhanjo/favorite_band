@@ -31,4 +31,10 @@ p.description{
 div{
     color: greenyellow;
 }
+strong{
+    color: hotpink;
+}
+em{
+    color: blue;
+}
 
