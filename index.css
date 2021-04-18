@@ -7,14 +7,14 @@ h1{
 
 }
 body{
-    background-image: https://i.ytimg.com/vi/Oi6bTQND-QI/maxresdefault.jpg;
+    background-color: teal;
 }
 h2{
-    color: blue;
+    color:white;
 }
 ul{
-    color: crimson;
+    color:ghostwhite;
 }
 .p{
-    font-family: unset;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
