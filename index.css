@@ -1,5 +1,5 @@
 h1{
-    color: darkblue;
+    color: rgb(126, 126, 192);
     text-align: center;
     text-shadow: darkorange;
     font-family: fantasy;
@@ -14,6 +14,7 @@ ul{
 .p{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: blanchedalmond;
+    background-color: cornflowerblue;
 }
 body{
     background-color: rgb(105, 76, 39);
