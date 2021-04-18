@@ -23,4 +23,8 @@ p.description{
     color: rgb(96, 98, 189);
     color: rgb(156, 233, 156);
 }
+.body{
+    margin:0 auto; padding:8px;
+    display: block;
+}
 
