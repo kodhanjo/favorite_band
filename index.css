@@ -1,7 +1,8 @@
-hi {
-    color: red;
+h1{
+    color: darkblue;
     text-align: center;
-    padding: 3px;
+    text-shadow: darkorange;
+    
 }
 body{
     background-image: https://i.ytimg.com/vi/Oi6bTQND-QI/maxresdefault.jpg;
