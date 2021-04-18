@@ -2,7 +2,9 @@ h1{
     color: darkblue;
     text-align: center;
     text-shadow: darkorange;
-    
+    font-family: fantasy;
+    font-weight: 500;
+
 }
 body{
     background-image: https://i.ytimg.com/vi/Oi6bTQND-QI/maxresdefault.jpg;
@@ -12,4 +14,7 @@ h2{
 }
 ul{
     color: crimson;
+}
+.p{
+    font-family: unset;
 }
