@@ -17,9 +17,8 @@ ul{
     color: blanchedalmond;
     background-color: cornflowerblue;
 }
-.bg{
+body{
     background-image: url(./images/background.jpg);
-    background-position: top;
 }
 p.description{
     color: rgb(96, 98, 189);
