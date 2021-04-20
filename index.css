@@ -2,31 +2,29 @@ h1{
     color: rgb(24, 224, 67);
     text-align: center;
     text-shadow: darkorange;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: 800;
+    font-family: 'Trebuchet MS';
+    font-weight: bolder;
 }
 h2{
-    color:white;
+    color:gold;
 }
 ul{
     color:ghostwhite;
     font-weight: bold;
 }
-.p{
+p{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: blanchedalmond;
-    background-color: cornflowerblue;
+    color: rgb(108, 211, 23);
+    background-color: rgb(90, 85, 85);
 }
 body{
     background-image: url(./images/background.jpg);
+    margin:0 auto; padding:8px;
+    display: block;
 }
 p.description{
     color: rgb(96, 98, 189);
     color: rgb(156, 233, 156);
-}
-.body{
-    margin:0 auto; padding:8px;
-    display: block;
 }
 div{
     color: greenyellow;
@@ -37,5 +35,26 @@ strong{
 em{
     color:white;
 }
+.vid{
+    background-color: lavender;
+}
+h3{
+    color: lawngreen;
+
+}
+ul {
+    padding-top: 4pxS;
+    padding-right: 10px;
+    padding-left: 0px;
+    
+    /*ul dimentions*/
+      max-width: 100;
+      max-height: 100;
+      overflow: hidden;
+  }
+  .image{
+      padding-left: 15px;
+  }
+
 
 
